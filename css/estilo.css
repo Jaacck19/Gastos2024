@@ -24,13 +24,15 @@ header{
     margin-bottom:30px;
 }
 h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:red;
     font-weight: 100;
+    text-align: center;
+
 }
 h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
     font-weight: 100;
-    margin-bottom: 30px;
+    margin-bottom: 30px;        
 }
