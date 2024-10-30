@@ -1,1 +1,1 @@
-# Gastos2024
+# Gastos
